@@ -1,0 +1,1131 @@
+
+==== Age ====
+
+Top 3 highest:
+Empty DataFrame
+Columns: [Name, Team, Age]
+Index: []
+
+Top 3 lowest:
+Empty DataFrame
+Columns: [Name, Team, Age]
+Index: []
+
+
+==== Matches Played ====
+
+Top 3 highest:
+           Name           Team  Matches Played
+Youri Tielemans    Aston Villa            34.0
+Virgil van Dijk      Liverpool            34.0
+Tyrick Mitchell Crystal Palace            34.0
+
+Top 3 lowest:
+           Name           Team  Matches Played
+Odsonne Édouard Crystal Palace             2.0
+   Ayden Heaven Manchester Utd             2.0
+           Neto    Bournemouth             2.0
+
+
+==== Starts ====
+
+Top 3 highest:
+           Name        Team  Starts
+Youri Tielemans Aston Villa    34.0
+Virgil van Dijk   Liverpool    34.0
+  Mohamed Salah   Liverpool    34.0
+
+Top 3 lowest:
+         Name           Team  Starts
+  Wataru Endo      Liverpool     0.0
+Ali Al Hamadi   Ipswich Town     0.0
+ Ben Chilwell Crystal Palace     0.0
+
+
+==== Min ====
+
+Top 3 highest:
+           Name           Team    Min
+Virgil van Dijk      Liverpool 3060.0
+     Bernd Leno         Fulham 3060.0
+ Dean Henderson Crystal Palace 3060.0
+
+Top 3 lowest:
+                Name            Team  Min
+       Harrison Reed          Fulham 93.0
+        Ayden Heaven  Manchester Utd 95.0
+Jahmai Simpson-Pusey Manchester City 96.0
+
+
+==== Goals ====
+
+Top 3 highest:
+           Name           Team  Goals
+Virgil van Dijk      Liverpool   34.0
+     Bernd Leno         Fulham   34.0
+ Dean Henderson Crystal Palace   34.0
+
+Top 3 lowest:
+         Name           Team  Goals
+Harrison Reed         Fulham    1.0
+ Ayden Heaven Manchester Utd    1.1
+  Emi Buendía    Aston Villa    1.1
+
+
+==== Assists ====
+
+Top 3 highest:
+          Name            Team  Assists
+ Mohamed Salah       Liverpool     28.0
+Alexander Isak   Newcastle Utd     22.0
+Erling Haaland Manchester City     21.0
+
+Top 3 lowest:
+           Name        Team  Assists
+Aaron Cresswell    West Ham      0.0
+ Aaron Ramsdale Southampton      0.0
+    Archie Gray   Tottenham      0.0
+
+
+==== Yellow Cards ====
+
+Top 3 highest:
+         Name          Team  Yellow Cards
+Mohamed Salah     Liverpool          18.0
+ Jacob Murphy Newcastle Utd          11.0
+  Bukayo Saka       Arsenal          10.0
+
+Top 3 lowest:
+            Name        Team  Yellow Cards
+ Aaron Cresswell    West Ham           0.0
+  Aaron Ramsdale Southampton           0.0
+Łukasz Fabiański    West Ham           0.0
+
+
+==== Red Cards ====
+
+Top 3 highest:
+          Name            Team  Red Cards
+ Mohamed Salah       Liverpool       46.0
+Alexander Isak   Newcastle Utd       28.0
+Erling Haaland Manchester City       24.0
+
+Top 3 lowest:
+          Name           Team  Red Cards
+Arijanet Muric   Ipswich Town        0.0
+Tyrell Malacia Manchester Utd        0.0
+  Tyrone Mings    Aston Villa        0.0
+
+
+==== xG ====
+
+Top 3 highest:
+          Name            Team   xG
+ Mohamed Salah       Liverpool 23.9
+Erling Haaland Manchester City 20.8
+Alexander Isak   Newcastle Utd 19.0
+
+Top 3 lowest:
+          Name         Team  xG
+Aaron Ramsdale  Southampton 0.0
+   Archie Gray    Tottenham 0.0
+Arijanet Muric Ipswich Town 0.0
+
+
+==== xAG ====
+
+Top 3 highest:
+         Name      Team  xAG
+Mohamed Salah Liverpool 12.8
+  Cole Palmer   Chelsea  9.3
+Son Heung-min Tottenham  8.2
+
+Top 3 lowest:
+               Name        Team  xAG
+   Łukasz Fabiański    West Ham  0.0
+        Wataru Endo   Liverpool  0.0
+Armel Bella Kotchap Southampton  0.0
+
+
+==== PrgC ====
+
+Top 3 highest:
+         Name            Team  PrgC
+  Jeremy Doku Manchester City 176.0
+Mohamed Salah       Liverpool 142.0
+ Kaoru Mitoma        Brighton 138.0
+
+Top 3 lowest:
+            Name        Team  PrgC
+ Yerson Mosquera      Wolves   0.0
+  Aaron Ramsdale Southampton   0.0
+Łukasz Fabiański    West Ham   0.0
+
+
+==== PrgP_x ====
+
+Top 3 highest:
+           Name            Team  PrgP_x
+Bruno Fernandes  Manchester Utd   281.0
+Bruno Guimarães   Newcastle Utd   241.0
+ Joško Gvardiol Manchester City   240.0
+
+Top 3 lowest:
+            Name            Team  PrgP_x
+  Aaron Ramsdale     Southampton     0.0
+Łukasz Fabiański        West Ham     0.0
+   Stefan Ortega Manchester City     0.0
+
+
+==== PrgR_x ====
+
+Top 3 highest:
+         Name      Team  PrgR_x
+Mohamed Salah Liverpool   425.0
+ Bryan Mbeumo Brentford   300.0
+ Kaoru Mitoma  Brighton   277.0
+
+Top 3 lowest:
+            Name        Team  PrgR_x
+  Aaron Ramsdale Southampton     0.0
+Łukasz Fabiański    West Ham     0.0
+ Yerson Mosquera      Wolves     0.0
+
+
+==== Gls90 ====
+
+Top 3 highest:
+         Name            Team  Gls90
+Donyell Malen     Aston Villa   0.99
+  Jáder Durán     Aston Villa   0.99
+ James Mcatee Manchester City   0.91
+
+Top 3 lowest:
+           Name      Team  Gls90
+    Archie Gray Tottenham    0.0
+Aaron Cresswell  West Ham    0.0
+ Wilson Odobert Tottenham    0.0
+
+
+==== Ast90 ====
+
+Top 3 highest:
+          Name     Team  Ast90
+Tyrique George  Chelsea   0.87
+    Danny Ings West Ham   0.63
+   Bukayo Saka  Arsenal   0.62
+
+Top 3 lowest:
+          Name           Team  Ast90
+Woyo Coulibaly Leicester City    0.0
+Antonín Kinský      Tottenham    0.0
+        Antony Manchester Utd    0.0
+
+
+==== xG90 ====
+
+Top 3 highest:
+         Name            Team  xG90
+ James Mcatee Manchester City  0.85
+Marco Asensio     Aston Villa  0.78
+  Richarlison       Tottenham  0.78
+
+Top 3 lowest:
+           Name           Team  xG90
+ Aaron Ramsdale    Southampton   0.0
+Victor Lindelöf Manchester Utd   0.0
+    Wataru Endo      Liverpool   0.0
+
+
+==== xAG90 ====
+
+Top 3 highest:
+           Name        Team  xAG90
+ Tyrique George     Chelsea   0.63
+Mykhailo Mudryk     Chelsea   0.58
+ Philip Billing Bournemouth   0.54
+
+Top 3 lowest:
+            Name        Team  xAG90
+Łukasz Fabiański    West Ham    0.0
+  Aaron Ramsdale Southampton    0.0
+ Alphonse Areola    West Ham    0.0
+
+
+==== GA90 ====
+
+Top 3 highest:
+            Name           Team  GA90
+      Danny Ward Leicester City  4.00
+Christian Walton   Ipswich Town  2.67
+   Alex McCarthy    Southampton  2.60
+
+Top 3 lowest:
+        Name      Team  GA90
+Jason Steele  Brighton  0.50
+     Alisson Liverpool  0.84
+  David Raya   Arsenal  0.85
+
+
+==== Save% ====
+
+Top 3 highest:
+          Name        Team  Save%
+          Neto Bournemouth   84.6
+  Mark Travers Bournemouth   80.0
+Robert Sánchez     Chelsea   76.7
+
+Top 3 lowest:
+                   Name           Team  Save%
+             Danny Ward Leicester City   40.0
+Hákon Rafn Valdimarsson      Brentford   50.0
+            Robin Olsen    Aston Villa   55.6
+
+
+==== CS% ====
+
+Top 3 highest:
+           Name           Team  CS%
+Jordan Pickford        Everton 14.0
+     David Raya        Arsenal 13.0
+ Dean Henderson Crystal Palace 12.0
+
+Top 3 lowest:
+          Name           Team  CS%
+ Alex McCarthy    Southampton  0.0
+Antonín Kinský      Tottenham  0.0
+    Danny Ward Leicester City  0.0
+
+
+==== PK Save% ====
+
+Top 3 highest:
+           Name        Team  PK Save%
+ Aaron Ramsdale Southampton       7.0
+Bart Verbruggen    Brighton       7.0
+        José Sá      Wolves       6.0
+
+Top 3 lowest:
+           Name      Team  PK Save%
+        Alisson Liverpool       0.0
+Alphonse Areola  West Ham       0.0
+ Antonín Kinský Tottenham       0.0
+
+
+==== SoT% ====
+
+Top 3 highest:
+          Name        Team  SoT%
+   Ryan Fraser Southampton 100.0
+Séamus Coleman     Everton 100.0
+   Archie Gray   Tottenham 100.0
+
+Top 3 lowest:
+           Name            Team  SoT%
+Aaron Cresswell        West Ham   0.0
+    Álex Moreno Nott'ham Forest   0.0
+  Andrés García     Aston Villa   0.0
+
+
+==== SoT/90 ====
+
+Top 3 highest:
+          Name        Team  SoT/90
+  Julio Enciso    Brighton    6.12
+     Enes Ünal Bournemouth    5.22
+Harvey Elliott   Liverpool    4.97
+
+Top 3 lowest:
+           Name           Team  SoT/90
+ Aaron Ramsdale    Southampton     0.0
+Victor Lindelöf Manchester Utd     0.0
+    Wataru Endo      Liverpool     0.0
+
+
+==== G/Sh ====
+
+Top 3 highest:
+           Name        Team  G/Sh
+   Julio Enciso    Brighton  3.37
+  Donyell Malen Aston Villa  2.64
+Luis Sinisterra Bournemouth  2.29
+
+Top 3 lowest:
+            Name        Team  G/Sh
+ Aaron Cresswell    West Ham   0.0
+  Aaron Ramsdale Southampton   0.0
+Łukasz Fabiański    West Ham   0.0
+
+
+==== Dist ====
+
+Top 3 highest:
+              Name            Team  Dist
+       John Stones Manchester City   1.0
+       Axel Disasi         Chelsea   0.5
+Myles Lewis-Skelly         Arsenal   0.5
+
+Top 3 lowest:
+           Name            Team  Dist
+Aaron Cresswell        West Ham   0.0
+ İlkay Gündoğan Manchester City   0.0
+Tyrick Mitchell  Crystal Palace   0.0
+
+
+==== Cmp ====
+
+Top 3 highest:
+           Name            Team    Cmp
+Virgil van Dijk       Liverpool 2446.0
+ William Saliba         Arsenal 2273.0
+ Joško Gvardiol Manchester City 2240.0
+
+Top 3 lowest:
+           Name           Team  Cmp
+  William Osula  Newcastle Utd 11.0
+Albert Grønbaek    Southampton 13.0
+Odsonne Édouard Crystal Palace 17.0
+
+
+==== Cmp% ====
+
+Top 3 highest:
+          Name            Team  Cmp%
+William Saliba         Arsenal  94.2
+ Manuel Akanji Manchester City  93.9
+    Nathan Aké Manchester City  93.9
+
+Top 3 lowest:
+        Name            Team  Cmp%
+   Matz Sels Nott'ham Forest  50.1
+George Hirst    Ipswich Town  55.0
+        Beto         Everton  56.6
+
+
+==== TotDist ====
+
+Top 3 highest:
+           Name      Team  TotDist
+Virgil van Dijk Liverpool  44780.0
+   Levi Colwill   Chelsea  39487.0
+ William Saliba   Arsenal  39201.0
+
+Top 3 lowest:
+           Name           Team  TotDist
+  William Osula  Newcastle Utd    126.0
+Albert Grønbaek    Southampton    135.0
+Odsonne Édouard Crystal Palace    230.0
+
+
+==== Short Cmp% ====
+
+Top 3 highest:
+           Name            Team  Short Cmp%
+ Joško Gvardiol Manchester City      1147.0
+Virgil van Dijk       Liverpool      1039.0
+ William Saliba         Arsenal       996.0
+
+Top 3 lowest:
+        Name           Team  Short Cmp%
+  Danny Ward Leicester City         6.0
+Mark Travers    Bournemouth         6.0
+        Neto    Bournemouth         7.0
+
+
+==== Med Cmp% ====
+
+Top 3 highest:
+           Name      Team  Med Cmp%
+   Levi Colwill   Chelsea    1327.0
+Virgil van Dijk Liverpool    1273.0
+ William Saliba   Arsenal    1241.0
+
+Top 3 lowest:
+           Name           Team  Med Cmp%
+Albert Grønbaek    Southampton       4.0
+  William Osula  Newcastle Utd       4.0
+Odsonne Édouard Crystal Palace       7.0
+
+
+==== Long Cmp% ====
+
+Top 3 highest:
+           Name            Team  Long Cmp%
+Jordan Pickford         Everton      863.0
+   Mark Flekken       Brentford      760.0
+      Matz Sels Nott'ham Forest      668.0
+
+Top 3 lowest:
+           Name          Team  Long Cmp%
+    Ben Godfrey  Ipswich Town        0.0
+Albert Grønbaek   Southampton        0.0
+  Callum Wilson Newcastle Utd        0.0
+
+
+==== KP ====
+
+Top 3 highest:
+            Name            Team  KP
+Antonee Robinson          Fulham 5.9
+   Mohamed Salah       Liverpool 5.2
+  Anthony Elanga Nott'ham Forest 4.6
+
+Top 3 lowest:
+            Name      Team   KP
+Andrew Robertson Liverpool -4.1
+   Jack Harrison   Everton -3.7
+   Lucas Paquetá  West Ham -3.0
+
+
+==== 1/3_x ====
+
+Top 3 highest:
+           Name           Team  1/3_x
+Bruno Fernandes Manchester Utd   84.0
+  Mohamed Salah      Liverpool   80.0
+    Cole Palmer        Chelsea   78.0
+
+Top 3 lowest:
+            Name        Team  1/3_x
+  Aaron Ramsdale Southampton    0.0
+Łukasz Fabiański    West Ham    0.0
+ Alphonse Areola    West Ham    0.0
+
+
+==== PPA ====
+
+Top 3 highest:
+           Name            Team   PPA
+Virgil van Dijk       Liverpool 265.0
+ Joško Gvardiol Manchester City 225.0
+Youri Tielemans     Aston Villa 221.0
+
+Top 3 lowest:
+           Name          Team  PPA
+  William Osula Newcastle Utd  0.0
+Martin Dúbravka Newcastle Utd  0.0
+ Tyrique George       Chelsea  0.0
+
+
+==== CrsPA ====
+
+Top 3 highest:
+           Name      Team  CrsPA
+  Mohamed Salah Liverpool   82.0
+Martin Ødegaard   Arsenal   78.0
+     Alex Iwobi    Fulham   77.0
+
+Top 3 lowest:
+          Name           Team  CrsPA
+Woyo Coulibaly Leicester City    0.0
+Antonín Kinský      Tottenham    0.0
+   Archie Gray      Tottenham    0.0
+
+
+==== PrgP_y ====
+
+Top 3 highest:
+             Name      Team  PrgP_y
+ Antonee Robinson    Fulham    26.0
+      Pedro Porro Tottenham    26.0
+Vitaliy Mykolenko   Everton    22.0
+
+Top 3 lowest:
+            Name         Team  PrgP_y
+Łukasz Fabiański     West Ham     0.0
+  Aaron Ramsdale  Southampton     0.0
+   Ali Al Hamadi Ipswich Town     0.0
+
+
+==== SCA ====
+
+Top 3 highest:
+           Name           Team   SCA
+    Cole Palmer        Chelsea 180.0
+Bruno Fernandes Manchester Utd 169.0
+  Mohamed Salah      Liverpool 153.0
+
+Top 3 lowest:
+          Name            Team  SCA
+Woyo Coulibaly  Leicester City  0.0
+    Willy Boly Nott'ham Forest  0.0
+       Ben Mee       Brentford  0.0
+
+
+==== SCA90 ====
+
+Top 3 highest:
+           Name            Team  SCA90
+ Philip Billing     Bournemouth   7.83
+ Luis Guilherme        West Ham   6.52
+Kevin De Bruyne Manchester City   6.24
+
+Top 3 lowest:
+         Name            Team  SCA90
+Stefan Ortega Manchester City    0.0
+  Sven Botman   Newcastle Utd    0.0
+      Ben Mee       Brentford    0.0
+
+
+==== GCA ====
+
+Top 3 highest:
+       Name      Team  GCA
+Bukayo Saka   Arsenal 1.36
+Solly March  Brighton 1.08
+Mikey Moore Tottenham 0.97
+
+Top 3 lowest:
+            Name        Team  GCA
+ Aaron Cresswell    West Ham  0.0
+  Aaron Ramsdale Southampton  0.0
+Łukasz Fabiański    West Ham  0.0
+
+
+==== GCA90 ====
+
+Top 3 highest:
+            Name          Team  GCA90
+   Mohamed Salah     Liverpool   19.0
+ Bruno Guimarães Newcastle Utd   16.0
+Mikkel Damsgaard     Brentford   15.0
+
+Top 3 lowest:
+          Name         Team  GCA90
+   Archie Gray    Tottenham    0.0
+Arijanet Muric Ipswich Town    0.0
+ Armando Broja      Everton    0.0
+
+
+==== Tkl ====
+
+Top 3 highest:
+              Name           Team   Tkl
+Idrissa Gana Gueye        Everton 123.0
+      Daniel Muñoz Crystal Palace 109.0
+ Noussair Mazraoui Manchester Utd 102.0
+
+Top 3 lowest:
+            Name        Team  Tkl
+  Aaron Ramsdale Southampton  0.0
+Łukasz Fabiański    West Ham  0.0
+ Bart Verbruggen    Brighton  0.0
+
+
+==== TklW ====
+
+Top 3 highest:
+              Name           Team  TklW
+Idrissa Gana Gueye        Everton  74.0
+      Daniel Muñoz Crystal Palace  70.0
+    Moisés Caicedo        Chelsea  63.0
+
+Top 3 lowest:
+            Name        Team  TklW
+  Aaron Ramsdale Southampton   0.0
+Łukasz Fabiański    West Ham   0.0
+  Tyrique George     Chelsea   0.0
+
+
+==== Att_x ====
+
+Top 3 highest:
+                  Name      Team  Att_x
+Trent Alexander-Arnold Liverpool  101.0
+   Alexis Mac Allister Liverpool  101.0
+            João Gomes    Wolves   97.0
+
+Top 3 lowest:
+         Name          Team  Att_x
+Armando Broja       Everton    0.0
+Alex McCarthy   Southampton    0.0
+    Nick Pope Newcastle Utd    0.0
+
+
+==== Lost_x ====
+
+Top 3 highest:
+           Name            Team  Lost_x
+ Nathan Collins       Brentford    68.0
+        Murillo Nott'ham Forest    66.0
+Tyrick Mitchell  Crystal Palace    62.0
+
+Top 3 lowest:
+            Name        Team  Lost_x
+  Aaron Ramsdale Southampton     0.0
+Łukasz Fabiański    West Ham     0.0
+         Willian      Fulham     0.0
+
+
+==== Blocks ====
+
+Top 3 highest:
+          Name            Team  Blocks
+Nathan Collins       Brentford    48.0
+   Dara O'Shea    Ipswich Town    47.0
+       Murillo Nott'ham Forest    43.0
+
+Top 3 lowest:
+            Name        Team  Blocks
+  Yankuba Minteh    Brighton     0.0
+  Aaron Ramsdale Southampton     0.0
+Łukasz Fabiański    West Ham     0.0
+
+
+==== Sh ====
+
+Top 3 highest:
+               Name           Team   Sh
+Alexis Mac Allister      Liverpool 54.0
+    Antoine Semenyo    Bournemouth 51.0
+    Tyrick Mitchell Crystal Palace 50.0
+
+Top 3 lowest:
+            Name          Team  Sh
+  Aaron Ramsdale   Southampton 0.0
+Łukasz Fabiański      West Ham 0.0
+   William Osula Newcastle Utd 0.0
+
+
+==== Pass ====
+
+Top 3 highest:
+             Name      Team  Pass
+Aaron Wan-Bissaka  West Ham  59.0
+ Ryan Gravenberch Liverpool  57.0
+ Antonee Robinson    Fulham  56.0
+
+Top 3 lowest:
+          Name         Team  Pass
+Arijanet Muric Ipswich Town   0.0
+Antonín Kinský    Tottenham   0.0
+       Alisson    Liverpool   0.0
+
+
+==== Int ====
+
+Top 3 highest:
+              Name           Team   Int
+Idrissa Gana Gueye        Everton 164.0
+      Daniel Muñoz Crystal Palace 148.0
+    Moisés Caicedo        Chelsea 147.0
+
+Top 3 lowest:
+           Name         Team  Int
+    Alex Palmer Ipswich Town  0.0
+  Alex McCarthy  Southampton  0.0
+Bart Verbruggen     Brighton  0.0
+
+
+==== Touches ====
+
+Top 3 highest:
+           Name            Team  Touches
+Virgil van Dijk       Liverpool   3010.0
+ Joško Gvardiol Manchester City   2808.0
+   Levi Colwill         Chelsea   2669.0
+
+Top 3 lowest:
+           Name           Team  Touches
+Albert Grønbaek    Southampton     38.0
+  William Osula  Newcastle Utd     41.0
+Odsonne Édouard Crystal Palace     45.0
+
+
+==== Def Pen ====
+
+Top 3 highest:
+        Name           Team  Def Pen
+Mark Flekken      Brentford   1261.0
+  Bernd Leno         Fulham   1066.0
+ André Onana Manchester Utd   1005.0
+
+Top 3 lowest:
+       Name        Team  Def Pen
+Emi Buendía Aston Villa      0.0
+ Mathys Tel   Tottenham      1.0
+Mikey Moore   Tottenham      1.0
+
+
+==== Def 3rd ====
+
+Top 3 highest:
+           Name      Team  Def 3rd
+   Mark Flekken Brentford   1569.0
+Jordan Pickford   Everton   1451.0
+     Bernd Leno    Fulham   1318.0
+
+Top 3 lowest:
+           Name           Team  Def 3rd
+  William Osula  Newcastle Utd      2.0
+Odsonne Édouard Crystal Palace      4.0
+  Callum Wilson  Newcastle Utd      5.0
+
+
+==== Mid 3rd ====
+
+Top 3 highest:
+           Name      Team  Mid 3rd
+Virgil van Dijk Liverpool   1664.0
+ William Saliba   Arsenal   1495.0
+ Moisés Caicedo   Chelsea   1442.0
+
+Top 3 lowest:
+          Name        Team  Mid 3rd
+ Alex McCarthy Southampton      0.0
+          Neto Bournemouth      0.0
+Fraser Forster   Tottenham      0.0
+
+
+==== Att 3rd ====
+
+Top 3 highest:
+           Name           Team  Att 3rd
+  Mohamed Salah      Liverpool    993.0
+Bruno Fernandes Manchester Utd    888.0
+   Bryan Mbeumo      Brentford    851.0
+
+Top 3 lowest:
+            Name        Team  Att 3rd
+  Aaron Ramsdale Southampton      0.0
+Łukasz Fabiański    West Ham      0.0
+ Bart Verbruggen    Brighton      0.0
+
+
+==== Att Pen ====
+
+Top 3 highest:
+           Name          Team  Att Pen
+  Mohamed Salah     Liverpool    320.0
+Antoine Semenyo   Bournemouth    176.0
+ Alexander Isak Newcastle Utd    175.0
+
+Top 3 lowest:
+            Name         Team  Att Pen
+  Aaron Ramsdale  Southampton      0.0
+Łukasz Fabiański     West Ham      0.0
+     Alex Palmer Ipswich Town      0.0
+
+
+==== Att_y ====
+
+Top 3 highest:
+           Name            Team  Att_y
+Virgil van Dijk       Liverpool 3010.0
+ Joško Gvardiol Manchester City 2808.0
+   Levi Colwill         Chelsea 2669.0
+
+Top 3 lowest:
+           Name           Team  Att_y
+Albert Grønbaek    Southampton   38.0
+  William Osula  Newcastle Utd   41.0
+Odsonne Édouard Crystal Palace   45.0
+
+
+==== Succ% ====
+
+Top 3 highest:
+           Name            Team  Succ%
+    Jeremy Doku Manchester City   98.0
+ Mohammed Kudus        West Ham   84.0
+Antoine Semenyo     Bournemouth   64.0
+
+Top 3 lowest:
+           Name         Team  Succ%
+    Alex Palmer Ipswich Town    0.0
+  Alex McCarthy  Southampton    0.0
+Albert Grønbaek  Southampton    0.0
+
+
+==== Tkld% ====
+
+Top 3 highest:
+          Name        Team  Tkld%
+Mohammed Kudus    West Ham   87.0
+  Kaoru Mitoma    Brighton   73.0
+ Morgan Rogers Aston Villa   66.0
+
+Top 3 lowest:
+            Name        Team  Tkld%
+ Aaron Cresswell    West Ham    0.0
+  Aaron Ramsdale Southampton    0.0
+Łukasz Fabiański    West Ham    0.0
+
+
+==== Carries ====
+
+Top 3 highest:
+               Name           Team  Carries
+  Benoît Badiashile        Chelsea    100.0
+    Nathaniel Clyne Crystal Palace    100.0
+Armel Bella Kotchap    Southampton    100.0
+
+Top 3 lowest:
+           Name      Team  Carries
+Aaron Cresswell  West Ham      0.0
+        Alisson Liverpool      0.0
+    Andy Irving  West Ham      0.0
+
+
+==== ProDist ====
+
+Top 3 highest:
+           Name            Team  ProDist
+ Joško Gvardiol Manchester City   1826.0
+Virgil van Dijk       Liverpool   1682.0
+ William Saliba         Arsenal   1642.0
+
+Top 3 lowest:
+           Name            Team  ProDist
+  Harry Toffolo Nott'ham Forest     17.0
+Albert Grønbaek     Southampton     18.0
+Odsonne Édouard  Crystal Palace     23.0
+
+
+==== ProgC ====
+
+Top 3 highest:
+              Name            Team  ProgC
+    Joško Gvardiol Manchester City 9690.0
+Jan Paul van Hecke        Brighton 9643.0
+        Rúben Dias Manchester City 8574.0
+
+Top 3 lowest:
+           Name            Team  ProgC
+  Harry Toffolo Nott'ham Forest   57.0
+Albert Grønbaek     Southampton   79.0
+  Harrison Reed          Fulham   95.0
+
+
+==== 1/3_y ====
+
+Top 3 highest:
+              Name            Team  1/3_y
+Jan Paul van Hecke        Brighton 6643.0
+    Joško Gvardiol Manchester City 5505.0
+        Rúben Dias Manchester City 5097.0
+
+Top 3 lowest:
+           Name            Team  1/3_y
+Albert Grønbaek     Southampton   15.0
+  Harry Toffolo Nott'ham Forest   23.0
+ Massimo Luongo    Ipswich Town   25.0
+
+
+==== CPA ====
+
+Top 3 highest:
+         Name            Team   CPA
+  Jeremy Doku Manchester City 176.0
+Mohamed Salah       Liverpool 142.0
+ Kaoru Mitoma        Brighton 138.0
+
+Top 3 lowest:
+            Name        Team  CPA
+ Yerson Mosquera      Wolves  0.0
+  Aaron Ramsdale Southampton  0.0
+Łukasz Fabiański    West Ham  0.0
+
+
+==== Mis ====
+
+Top 3 highest:
+          Name            Team  Mis
+    Alex Iwobi          Fulham 99.0
+Joško Gvardiol Manchester City 91.0
+ Matheus Cunha          Wolves 88.0
+
+Top 3 lowest:
+          Name         Team  Mis
+Aaron Ramsdale  Southampton  0.0
+   Wataru Endo    Liverpool  0.0
+Arijanet Muric Ipswich Town  0.0
+
+
+==== Dis ====
+
+Top 3 highest:
+         Name            Team   Dis
+Mohamed Salah       Liverpool 113.0
+ Noni Madueke         Chelsea  80.0
+  Jeremy Doku Manchester City  80.0
+
+Top 3 lowest:
+            Name        Team  Dis
+ Aaron Cresswell    West Ham  0.0
+  Aaron Ramsdale Southampton  0.0
+Łukasz Fabiański    West Ham  0.0
+
+
+==== Rec ====
+
+Top 3 highest:
+         Name         Team   Rec
+Mohamed Salah    Liverpool 105.0
+Morgan Rogers  Aston Villa 102.0
+   Liam Delap Ipswich Town  96.0
+
+Top 3 lowest:
+            Name        Team  Rec
+Łukasz Fabiański    West Ham  0.0
+   Alex McCarthy Southampton  0.0
+            Neto Bournemouth  0.0
+
+
+==== PrgR_y ====
+
+Top 3 highest:
+            Name          Team  PrgR_y
+  Mohammed Kudus      West Ham    88.0
+ Bruno Guimarães Newcastle Utd    73.0
+Dejan Kulusevski     Tottenham    72.0
+
+Top 3 lowest:
+            Name        Team  PrgR_y
+ Aaron Cresswell    West Ham     0.0
+  Aaron Ramsdale Southampton     0.0
+Łukasz Fabiański    West Ham     0.0
+
+
+==== Fls ====
+
+Top 3 highest:
+           Name         Team  Fls
+     João Gomes       Wolves 65.0
+     Liam Delap Ipswich Town 65.0
+Antoine Semenyo  Bournemouth 65.0
+
+Top 3 lowest:
+           Name        Team  Fls
+           Neto Bournemouth  0.0
+Bart Verbruggen    Brighton  0.0
+Albert Grønbaek Southampton  0.0
+
+
+==== Fld ====
+
+Top 3 highest:
+           Name          Team  Fld
+Bruno Guimarães Newcastle Utd 99.0
+  Matheus Cunha        Wolves 69.0
+ James Maddison     Tottenham 64.0
+
+Top 3 lowest:
+         Name            Team  Fld
+   Nathan Aké Manchester City  0.0
+Michael Keane         Everton  0.0
+  Ben Godfrey    Ipswich Town  0.0
+
+
+==== Off ====
+
+Top 3 highest:
+                 Name            Team  Off
+Dominic Calvert-Lewin         Everton 27.0
+          Jamie Vardy  Leicester City 25.0
+           Chris Wood Nott'ham Forest 24.0
+
+Top 3 lowest:
+            Name        Team  Off
+ Aaron Cresswell    West Ham  0.0
+  Aaron Ramsdale Southampton  0.0
+Łukasz Fabiański    West Ham  0.0
+
+
+==== Crs ====
+
+Top 3 highest:
+           Name           Team   Crs
+    Pedro Porro      Tottenham 191.0
+Bruno Fernandes Manchester Utd 172.0
+   Bryan Mbeumo      Brentford 171.0
+
+Top 3 lowest:
+             Name         Team  Crs
+      Ben Godfrey Ipswich Town  0.0
+          Ben Mee    Brentford  0.0
+Benoît Badiashile      Chelsea  0.0
+
+
+==== Recov ====
+
+Top 3 highest:
+        Name           Team  Recov
+  Marc Guéhi Crystal Palace    3.0
+Craig Dawson         Wolves    2.0
+    Dan Burn  Newcastle Utd    2.0
+
+Top 3 lowest:
+            Name      Team  Recov
+Łukasz Fabiański  West Ham    0.0
+           André    Wolves    0.0
+     Wataru Endo Liverpool    0.0
+
+
+==== Won ====
+
+Top 3 highest:
+            Name           Team   Won
+  Moisés Caicedo        Chelsea 197.0
+ Bruno Fernandes Manchester Utd 192.0
+Ryan Gravenberch      Liverpool 182.0
+
+Top 3 lowest:
+                   Name           Team  Won
+             Danny Ward Leicester City  1.0
+         Fraser Forster      Tottenham  1.0
+Hákon Rafn Valdimarsson      Brentford  1.0
+
+
+==== Lost_y ====
+
+Top 3 highest:
+           Name          Team  Lost_y
+       Dan Burn Newcastle Utd   127.0
+Virgil van Dijk     Liverpool   110.0
+ Nathan Collins     Brentford   103.0
+
+Top 3 lowest:
+        Name           Team  Lost_y
+      Antony Manchester Utd     0.0
+ Robin Olsen    Aston Villa     0.0
+Reiss Nelson         Fulham     0.0
+
+
+==== Won% ====
+
+Top 3 highest:
+                Name            Team  Won%
+          Chris Wood Nott'ham Forest 117.0
+Jørgen Strand Larsen          Wolves  96.0
+Jean-Philippe Mateta  Crystal Palace  95.0
+
+Top 3 lowest:
+           Name        Team  Won%
+ Aaron Ramsdale Southampton   0.0
+  Alex McCarthy Southampton   0.0
+Albert Grønbaek Southampton   0.0
+
+
+========================================
+
+ĐỘI TOÀN DIỆN NHẤT (THE BEST OVERALL TEAM)
+
+Liverpool với tổng điểm 27 (số lần đứng đầu chỉ số)
+
+Chi tiết điểm từng đội:
+Liverpool: 27 điểm
+Manchester City: 12 điểm
+Bournemouth: 6 điểm
+Crystal Palace: 6 điểm
+Brentford: 4 điểm
+Fulham: 3 điểm
+Leicester City: 2 điểm
+Everton: 2 điểm
+Nott'ham Forest: 2 điểm
+Arsenal: 2 điểm
+Tottenham: 2 điểm
+Newcastle Utd: 2 điểm
+Aston Villa: 1 điểm
+Chelsea: 1 điểm
+Manchester Utd: 1 điểm
